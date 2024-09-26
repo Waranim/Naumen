@@ -10,5 +10,6 @@ public class Main {
         System.out.println("...");
         System.out.println("Trofimov");
         System.out.println("123");
+        System.out.println("Blue");
     }
 }
